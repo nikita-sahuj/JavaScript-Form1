@@ -1,0 +1,56 @@
+body
+{
+    background-color: pink;
+}
+
+#wrapper
+{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    background-color: navy;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    color: lightslategrey;
+}
+
+#boxtop
+{
+    margin: auto;
+    width: 400px;
+    height: 50px;
+    background-color: blueviolet;
+    color: white;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding-top: 25px;
+}
+
+#BoxData
+{
+    padding-top: 30px;
+    font-size: 60px;
+    font-weight: bold;
+    margin: auto;
+    width: 400px;
+    height: 100px;
+}
+
+#boxBottom
+{
+    margin: auto;
+    width: 400px;
+    height: 50px;
+    background-color: blueviolet;
+    color: white;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding-top: 25px;
+}
